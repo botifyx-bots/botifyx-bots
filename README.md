@@ -4,9 +4,10 @@
 
 <img src="assets/botifyx-preview.gif" width="600" />
 
-━━━━━━━━━━━━━━
+━━━━━━━━━
 𝘽 𝙊 𝙏 𝙄 𝙁 𝙔 𝙓
-━━━━━━━━━━━━━━
+━━━━━━━━━
+
 Telegram Automation Ecosystem
 
 </div>
@@ -29,8 +30,8 @@ Telegram Automation Ecosystem
 
 </div>
 
-## About BotifyX
-
+<div align="center">## About BotifyX
+</div>
 **BotifyX** is an automation-focused development project dedicated to building reliable, efficient, and purpose-driven Telegram bots.  
 The goal is simple — remove manual effort, reduce complexity, and let systems operate silently and consistently.
 
@@ -41,10 +42,10 @@ Every tool under BotifyX is designed with long-term usability in mind, prioritiz
 
 ---
 
-## Core Bots
-
-### 𝐒𝐄𝐑𝐈𝐒 — Auto Approval
-
+<div align="center">## Core Bots
+</div>
+<div align="center">### 𝐒𝐄𝐑𝐈𝐒 — Auto Approval
+</div>
 𝐒𝐄𝐑𝐈𝐒 is a silent auto-approval bot designed to manage Telegram channel join requests automatically.  
 She observes incoming requests, applies predefined conditions, and grants access instantly — without delay, questions, or manual moderation.
 
@@ -54,8 +55,8 @@ She observes incoming requests, applies predefined conditions, and grants access
 
 ---
 
-### 𝐌𝐎𝐑𝐕𝐄𝐒𝐒𝐀 — Photo ID Utility
-
+<div align="center">### 𝐌𝐎𝐑𝐕𝐄𝐒𝐒𝐀 — Photo ID Utility
+</div>
 𝐌𝐎𝐑𝐕𝐄𝐒𝐒𝐀 is a utility bot created for developers and advanced users.  
 She converts any image into a reusable Telegram Photo ID, allowing media to be reused directly in bot code, automation flows, and databases without repeated uploads.
 
@@ -64,8 +65,8 @@ She converts any image into a reusable Telegram Photo ID, allowing media to be r
 
 ---
 
-## Tech Stack
-
+<div align="center">## Tech Stack
+</div>
 - Python
 - Pyrogram / Telethon
 - MongoDB
@@ -88,8 +89,8 @@ She converts any image into a reusable Telegram Photo ID, allowing media to be r
 
 ---
 
-## Philosophy
-
+<div align="center">## Philosophy
+</div>
 BotifyX follows a simple principle:
 
 > The best automation is the one you never notice.
@@ -100,8 +101,8 @@ Only systems that execute their purpose cleanly and consistently.
 
 ---
 
-## Contribution
-
+<div align="center">## Contribution
+</div>
 Ideas, feedback, and improvements are always welcome.  
 If you believe in building tools that respect simplicity and function, you are free to contribute.
 
@@ -109,10 +110,15 @@ If you believe in building tools that respect simplicity and function, you are f
 
 <div align="center">
 
-━━━━━━━━━━━━━━
+━━━━━━━
+
 𝘽𝒐𝒕𝒊𝒇𝒚𝑿
-Powering automation through silent systems
-━━━━━━━━━━━━━━
+
+Powering automation
+
+through silent systems
+
+━━━━━
 
 </div>
 <!--
