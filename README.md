@@ -78,7 +78,7 @@ She converts any image into a reusable Telegram Photo ID, allowing media to be r
 ## Community & Links
 
 - Telegram Channel  
-  https://t.me/BotifyX_Official
+  [https://t.me/BotifyX_Official](https://t.me/BotifyX_Pro)
 
 - Support Group  
   https://t.me/BotifyX_Official_Support
