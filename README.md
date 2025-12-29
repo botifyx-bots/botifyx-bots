@@ -1,4 +1,4 @@
-## Hi there 👋
+## 山乇ㄥ匚ㄖ爪乇  ㄒㄖ  乃ㄖㄒ|千ㄚ乂  -  乃ㄖㄒ乙
 
 <div align="center">
 
@@ -30,7 +30,7 @@ Telegram Automation Ecosystem
 
 </div>
 
-<div align="center">## About BotifyX
+<div align="center"> <h1>About BotifyX</h1>
 </div>
 **BotifyX** is an automation-focused development project dedicated to building reliable, efficient, and purpose-driven Telegram bots.  
 The goal is simple — remove manual effort, reduce complexity, and let systems operate silently and consistently.
@@ -42,9 +42,9 @@ Every tool under BotifyX is designed with long-term usability in mind, prioritiz
 
 ---
 
-<div align="center">## Core Bots
+<div align="center"> <h1>Core Bots</h1>
 </div>
-<div align="center">### 𝐒𝐄𝐑𝐈𝐒 — Auto Approval
+<div align="center"> <h2>𝐒𝐄𝐑𝐈𝐒 — Auto Approval</h2>
 </div>
 𝐒𝐄𝐑𝐈𝐒 is a silent auto-approval bot designed to manage Telegram channel join requests automatically.  
 She observes incoming requests, applies predefined conditions, and grants access instantly — without delay, questions, or manual moderation.
@@ -55,7 +55,7 @@ She observes incoming requests, applies predefined conditions, and grants access
 
 ---
 
-<div align="center">### 𝐌𝐎𝐑𝐕𝐄𝐒𝐒𝐀 — Photo ID Utility
+<div align="center"> <h1>𝐌𝐎𝐑𝐕𝐄𝐒𝐒𝐀 — Photo ID Utility</h1>
 </div>
 𝐌𝐎𝐑𝐕𝐄𝐒𝐒𝐀 is a utility bot created for developers and advanced users.  
 She converts any image into a reusable Telegram Photo ID, allowing media to be reused directly in bot code, automation flows, and databases without repeated uploads.
@@ -65,7 +65,7 @@ She converts any image into a reusable Telegram Photo ID, allowing media to be r
 
 ---
 
-<div align="center">## Tech Stack
+<div align="center"> <h1>Tech Stack</h1>
 </div>
 - Python
 - Pyrogram / Telethon
@@ -89,7 +89,7 @@ She converts any image into a reusable Telegram Photo ID, allowing media to be r
 
 ---
 
-<div align="center">## Philosophy
+<div align="center"> <h1>Philosophy</h1>
 </div>
 BotifyX follows a simple principle:
 
@@ -101,7 +101,7 @@ Only systems that execute their purpose cleanly and consistently.
 
 ---
 
-<div align="center">## Contribution
+<div align="center"> <h1>Contribution</h1>
 </div>
 Ideas, feedback, and improvements are always welcome.  
 If you believe in building tools that respect simplicity and function, you are free to contribute.
@@ -121,17 +121,4 @@ through silent systems
 ━━━━━
 
 </div>
-<!--
-**botifyx-bots/botifyx-bots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
