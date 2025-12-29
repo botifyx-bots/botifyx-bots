@@ -81,10 +81,10 @@ She converts any image into a reusable Telegram Photo ID, allowing media to be r
   [https://t.me/BotifyX_Official](https://t.me/BotifyX_Pro)
 
 - Support Group  
-  https://t.me/BotifyX_Official_Support
+ [ https://t.me/BotifyX_Official_Support](https://t.me/BotifyX_support)
 
 - GitHub  
-  https://github.com/botifyx-dev
+  https://github.com/botifyx-bots
 
 ---
 
