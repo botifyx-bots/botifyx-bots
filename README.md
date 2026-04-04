@@ -34,13 +34,11 @@
 
 <h3 align="center">
 
-```
 <!-- ═══════════ SKILLS ═══════════ -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=DC143C&height=3&section=header"/>
-```
 
 </h3>
 
