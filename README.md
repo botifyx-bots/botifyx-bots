@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2000&pause=500&color=DC143C&center=true&vCenter=true&width=700&height=50&lines=◤+INITIALIZING+BOTIFYX+PROTOCOL...+◢;▸▸+PYTHON+%7C+PYROGRAM+%7C+MONGODB+%7C+DOCKER+◂◂;⚡+TELEGRAM+BOT+ARCHITECT+%7C+DARK+SIDE+CODER+⚡;⛩+WHERE+CODE+MEETS+CHAOS+—+ANIME+NEVER+DIES+⛩;%5B+SYSTEM+%5D+ALL+BOTS+ARMED+AND+OPERATIONAL+✓" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=20&duration=2000&pause=500&color=DC143C&center=true&vCenter=true&width=700&height=50&lines=◤+INITIALIZING+BOTIFYX+PROTOCOL...+◢;▸▸+PYTHON+%7C+PYROGRAM+%7C+MONGODB+%7C+DOCKER+◂◂;⚡+TELEGRAM+BOT+ARCHITECT+%7C+DARK+SIDE+CODER+⚡;⛩+WHERE+CODE+MEETS+CHAOS+—+ANIME+NEVER+DIES+⛩;%5B+SYSTEM+%5D+ALL+BOTS+ARMED+AND+OPERATIONAL+✓" alt="Typing SVG"/>
 </div>
 
 <br/>
