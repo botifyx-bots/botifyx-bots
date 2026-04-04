@@ -144,7 +144,7 @@
 ║   COMING SOON...  ║
 ╠═══════════════════╣
 ║                   ║
-║   🔥 Stay tuned  ║
+║   🔥 Stay tuned   ║
 ║   something big   ║
 ║   is cooking...   ║
 ║                   ║
@@ -186,7 +186,7 @@
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║   ⚡  ALWAYS BUILDING.   🌸  ALWAYS WATCHING ANIME.      ║
+║   ⚡  ALWAYS BUILDING.   🌸  ALWAYS WATCHING ANIME.     ║
 ║   💀  BOTS DON'T SLEEP.  🔥  NEITHER DOES THE GRIND.    ║
 ║                                                          ║
 ║     If something helped you — drop a ⭐ — it costs      ║
