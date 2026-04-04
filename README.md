@@ -195,7 +195,7 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://i.pinimg.com/736x/6e/9b/86/6e9b8691a603a9add9f91c042fda6a63.jpg" width="100%" style="max-width:600px; border-radius:10px"/>
+<img src="https://i.pinimg.com/736x/a3/e2/25/a3e2252dc36d8077925b6053baf35733.jpg" width="100%" style="max-width:600px; border-radius:10px"/>
 
 </div>
 
