@@ -8,7 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a2e,100:DC143C&height=220&section=header&text=B%20O%20T%20I%20F%20Y%20X&fontSize=70&fontColor=DC143C&fontAlignY=35&desc=⚡%20WHERE%20CODE%20MEETS%20CHAOS%20⚡&descSize=18&descAlignY=58&descColor=ffffff&animation=fadeIn"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=DC143C&center=true&vCenter=true&width=650&height=60&lines=👾+Welcome+to+BotifyX+Universe...;⚔️+Python+Bot+Developer+%7C+Dark+Side+Coder;🔥+Building+Bots+That+Hit+Different;🌸+Anime+Enjoyer+%7C+Code+Warrior;💀+Every+Bug+Is+A+Final+Boss;⚡+Automating+The+World+One+Bot+At+A+Time" alt="Typing SVG"/>
+<img src="https://4kwallpapers.com/images/walls/thumbs_3t/13875.jpg?font=Fira+Code&weight=700&size=22&pause=800&color=DC143C&center=true&vCenter=true&width=650&height=60&lines=👾+Welcome+to+BotifyX+Universe...;⚔️+Python+Bot+Developer+%7C+Dark+Side+Coder;🔥+Building+Bots+That+Hit+Different;🌸+Anime+Enjoyer+%7C+Code+Warrior;💀+Every+Bug+Is+A+Final+Boss;⚡+Automating+The+World+One+Bot+At+A+Time" alt="Typing SVG"/>
 
 <br/>
 
