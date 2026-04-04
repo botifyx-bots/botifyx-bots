@@ -34,12 +34,11 @@
 
 <h3 align="center">
 
-<!-- ═══════════ SKILLS ═══════════ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=DC143C&height=3&section=header"/>
 
+### ⚔️ `TECH ARSENAL` ⚔️
 </h3>
 
 <div align="center">
@@ -83,11 +82,13 @@
 
 <h3 align="center">
 
-```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█░░░░ 🔥  F E A T U R E D  D R O P S  🔥 ░░░░█
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DC143C&height=3&section=header"/>
+
+### 🔥 `FEATURED PROJECTS` 🔥
+
+<br/>
 
 </h3>
 
@@ -162,12 +163,15 @@
 ---
 
 <h3 align="center">
+<!-- ═══════════ SKILLS ═══════════ -->
 
-```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█░░░░ 📡  T R A N S M I S S I O N  ░░░░█
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DC143C&height=3&section=header"/>
+
+### 📡  T R A N S M I S S I O N
+
+<br/>
 
 </h3>
 
