@@ -195,7 +195,7 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://moe-counter.glitch.me/get/@botifyx-bots?theme=rule34"/>
+<img src="https://4kwallpapers.com/images/walls/thumbs_3t/13875.jpg"/>
 
 </div>
 
