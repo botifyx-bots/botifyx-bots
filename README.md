@@ -35,9 +35,11 @@
 <h3 align="center">
 
 ```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█░░░░ ⚔  T E C H   A R S E N A L  ⚔ ░░░░█
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+<!-- ═══════════ SKILLS ═══════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DC143C&height=3&section=header"/>
 ```
 
 </h3>
