@@ -94,7 +94,7 @@
 
 <div align="center">
 
-[![File Store Pro](https://github-readme-stats.vercel.app/api/pin?username=botifyx-bots&repo=File-store-Pro&theme=github_dark&hide_border=false&border_color=DC143C&title_color=DC143C&icon_color=DC143C&text_color=ffffff&bg_color=000000)](https://github.com/botifyx-bots/File-store-Pro)
+[![File Store Pro](https://github-readme-stats.heroku.app/api/pin?username=botifyx-bots&repo=File-store-Pro&theme=github_dark&hide_border=false&border_color=DC143C&title_color=DC143C&icon_color=DC143C&text_color=ffffff&bg_color=000000)](https://github.com/botifyx-bots/File-store-Pro)
 
 <br/>
 
@@ -195,7 +195,7 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://4kwallpapers.com/images/walls/thumbs_3t/13875.jpg" width="100%" style="max-width:600px; border-radius:10px"/>
+<img src="https://i.pinimg.com/736x/6e/9b/86/6e9b8691a603a9add9f91c042fda6a63.jpg" width="100%" style="max-width:600px; border-radius:10px"/>
 
 </div>
 
