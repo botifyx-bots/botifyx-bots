@@ -1,67 +1,70 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--           BOTIFYX-BOTS • GITHUB PROFILE README            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ░▒▓ BOTIFYX-BOTS • GITHUB PROFILE ▓▒░ -->
 
 <div align="center">
 
-<!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a2e,100:DC143C&height=220&section=header&text=B%20O%20T%20I%20F%20Y%20X&fontSize=70&fontColor=DC143C&fontAlignY=35&desc=⚡%20WHERE%20CODE%20MEETS%20CHAOS%20⚡&descSize=18&descAlignY=58&descColor=ffffff&animation=fadeIn"/>
-
-<!-- TYPING ANIMATION -->
-<img src="https://4kwallpapers.com/images/walls/thumbs_3t/13875.jpg?font=Fira+Code&weight=700&size=22&pause=800&color=DC143C&center=true&vCenter=true&width=650&height=60&lines=👾+Welcome+to+BotifyX+Universe...;⚔️+Python+Bot+Developer+%7C+Dark+Side+Coder;🔥+Building+Bots+That+Hit+Different;🌸+Anime+Enjoyer+%7C+Code+Warrior;💀+Every+Bug+Is+A+Final+Boss;⚡+Automating+The+World+One+Bot+At+A+Time" alt="Typing SVG"/>
-
-<br/>
-
-<!-- PROFILE VISITOR COUNTER -->
-<img src="https://moe-counter.glitch.me/get/@botifyx-bots?theme=rule34"/>
-
-<br/><br/>
-
-<!-- SOCIAL BADGES -->
-[![Telegram](https://img.shields.io/badge/BotifyX__Pro__Botz-Telegram-DC143C?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BotifyX_Pro_Botz)
-[![GitHub](https://img.shields.io/badge/botifyx--bots-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=DC143C)](https://github.com/botifyx-bots)
-[![Stars](https://img.shields.io/github/stars/botifyx-bots?style=for-the-badge&color=DC143C&logo=github&logoColor=white&label=Total%20Stars)](https://github.com/botifyx-bots)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0010,60:1a0010,100:DC143C&height=280&section=header&text=BOTIFYX&fontSize=90&fontColor=DC143C&fontAlignY=40&desc=◈%20SYSTEM%20ONLINE%20◈%20BOT%20ARCHITECT%20◈%20DARK%20CODE%20WARRIOR%20◈&descSize=13&descAlignY=62&descColor=ff4466&animation=fadeIn&stroke=DC143C&strokeWidth=2"/>
 
 </div>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=2000&pause=500&color=DC143C&center=true&vCenter=true&width=700&height=50&lines=◤+INITIALIZING+BOTIFYX+PROTOCOL...+◢;▸▸+PYTHON+%7C+PYROGRAM+%7C+MONGODB+%7C+DOCKER+◂◂;⚡+TELEGRAM+BOT+ARCHITECT+%7C+DARK+SIDE+CODER+⚡;⛩+WHERE+CODE+MEETS+CHAOS+—+ANIME+NEVER+DIES+⛩;%5B+SYSTEM+%5D+ALL+BOTS+ARMED+AND+OPERATIONAL+✓" alt="Typing SVG"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/github/followers/botifyx-bots?style=flat-square&color=DC143C&labelColor=0d0d0d&logo=github&logoColor=DC143C&label=FOLLOWERS)
+![](https://img.shields.io/github/stars/botifyx-bots?style=flat-square&color=DC143C&labelColor=0d0d0d&logo=github&logoColor=DC143C&label=TOTAL+STARS&affiliations=OWNER)
+![](https://img.shields.io/badge/FOCUS-Telegram%20Bots-DC143C?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/STATUS-Always%20Building-DC143C?style=flat-square&labelColor=0d0d0d&logo=statuspage&logoColor=DC143C)
+![](https://komarev.com/ghpvc/?username=botifyx-bots&style=flat-square&color=DC143C&label=PROFILE+VIEWS&labelColor=0d0d0d)
+
+</div>
+
+<br/>
+
 ---
 
-<!-- ═══════════ ABOUT ═══════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a2e,100:0d0d0d&height=2&section=header"/>
-
-<table>
+<table width="100%">
 <tr>
-<td width="55%">
+<td width="52%" valign="top">
 
-## `❯ whoami`
-
-```python
-class BotifyX:
-    name       = "BotifyX Bots"
-    origin     = "🇮🇳 India"
-    role       = "Python Bot Developer"
-    specialty  = "Telegram Bots & Automation"
-    anime      = True   # always
-    sleep      = False  # never
-
-    def passion(self):
-        return [
-            "⚡ Building bots that hit different",
-            "🔥 Open source everything",
-            "🌸 Anime — non negotiable",
-            "💀 Debugging at 3AM",
-            "🚀 Shipping fast, breaking things",
-        ]
-
-    def motto(self):
-        return "Code hard. Bot harder. Stay anime."
+```ansi
+╔══════════════════════════════════════╗
+║       BOTIFYX // SYSTEM BOOT         ║
+╠══════════════════════════════════════╣
+║                                      ║
+║  > USER       BotifyX Bots           ║
+║  > ORIGIN     India  🇮🇳              ║
+║  > CLASS      Bot Architect          ║
+║  > CORE       Python + Pyrogram      ║
+║  > DB         MongoDB Atlas          ║
+║  > DEPLOY     Heroku / Render / VPS  ║
+║  > ANIME      [ CRITICAL NEED ]      ║
+║  > STATUS     OPERATIONAL  ✓         ║
+║                                      ║
+╠══════════════════════════════════════╣
+║  CURRENT MISSION:                    ║
+║  › Building File-Store-Pro v2.0      ║
+║  › Multi-DB Channel Architecture     ║
+║  › Token Verification System         ║
+║  › Premium Bot Ecosystem             ║
+╚══════════════════════════════════════╝
 ```
 
 </td>
-<td width="45%">
+<td width="48%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:10px"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="border-radius:8px"/>
+
+<br/>
+
+```
+⠀█▀▀ █▀█ █▀▄ █▀▀   █ █▀
+⠀█▄▄ █▄█ █▄▀ ██▄   █ ▄█
+   BOTIFYX ACTIVATED
+```
 
 </td>
 </tr>
@@ -69,135 +72,280 @@ class BotifyX:
 
 ---
 
-<!-- ═══════════ SKILLS ═══════════ -->
+<h3 align="center">
+
+```
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█░░░░ ⚔  T E C H   A R S E N A L  ⚔ ░░░░█
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
+
+</h3>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=DC143C&height=3&section=header"/>
+**`// LANGUAGES`**
 
-### ⚔️ `TECH ARSENAL` ⚔️
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=DC143C)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=DC143C)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=DC143C)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=DC143C)
 
-<br/>
+**`// FRAMEWORKS & LIBRARIES`**
 
-<!-- Languages -->
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=DC143C)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=DC143C)
-![Bash](https://img.shields.io/badge/Bash-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=DC143C)
-![HTML](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=DC143C)
+![Pyrogram](https://img.shields.io/badge/Pyrogram_v2-000000?style=for-the-badge&logo=telegram&logoColor=DC143C)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=DC143C)
+![Aiohttp](https://img.shields.io/badge/Aiohttp-000000?style=for-the-badge&logo=aiohttp&logoColor=DC143C)
+![AsyncIO](https://img.shields.io/badge/AsyncIO-000000?style=for-the-badge&logo=python&logoColor=DC143C)
 
-<!-- Frameworks & Libraries -->
-![Pyrogram](https://img.shields.io/badge/Pyrogram-0d0d0d?style=for-the-badge&logo=telegram&logoColor=DC143C)
-![Flask](https://img.shields.io/badge/Flask-0d0d0d?style=for-the-badge&logo=flask&logoColor=DC143C)
-![Aiohttp](https://img.shields.io/badge/Aiohttp-0d0d0d?style=for-the-badge&logo=aiohttp&logoColor=DC143C)
+**`// DATABASES`**
 
-<!-- Databases & Tools -->
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=DC143C)
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=DC143C)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=DC143C)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=DC143C)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=DC143C)
+![Motor](https://img.shields.io/badge/Motor_(Async)-000000?style=for-the-badge&logo=mongodb&logoColor=DC143C)
 
-<!-- Platforms -->
-![Heroku](https://img.shields.io/badge/Heroku-0d0d0d?style=for-the-badge&logo=heroku&logoColor=DC143C)
-![Render](https://img.shields.io/badge/Render-0d0d0d?style=for-the-badge&logo=render&logoColor=DC143C)
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=DC143C)
+**`// DEVOPS & TOOLS`**
+
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=DC143C)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=DC143C)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=DC143C)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=DC143C)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=DC143C)
+
+**`// PLATFORMS`**
+
+![Heroku](https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=DC143C)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=DC143C)
+![Telegram](https://img.shields.io/badge/Telegram_API-000000?style=for-the-badge&logo=telegram&logoColor=DC143C)
 
 </div>
 
 ---
 
-<!-- ═══════════ PROJECTS ═══════════ -->
+<h3 align="center">
+
+```
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█░░░░ 🔥  F E A T U R E D  D R O P S  🔥 ░░░░█
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
+
+</h3>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=DC143C&height=3&section=header"/>
-
-### 🔥 `FEATURED PROJECTS` 🔥
+[![File Store Pro](https://github-readme-stats.vercel.app/api/pin?username=botifyx-bots&repo=File-store-Pro&theme=github_dark&hide_border=false&border_color=DC143C&title_color=DC143C&icon_color=DC143C&text_color=ffffff&bg_color=000000)](https://github.com/botifyx-bots/File-store-Pro)
 
 <br/>
 
-[![File Store Pro](https://github-readme-stats.vercel.app/api/pin?username=botifyx-bots&repo=File-store-Pro&theme=github_dark&hide_border=true&title_color=DC143C&icon_color=DC143C&text_color=ffffff&bg_color=0d0d0d)](https://github.com/botifyx-bots/File-store-Pro)
+<table>
+<tr>
+<td align="center" width="33%">
 
-<br/>
+```
+╔═══════════════════╗
+║  FILE STORE PRO   ║
+╠═══════════════════╣
+║ ◈ Multi DB Chan  ║
+║ ◈ Token Verify   ║
+║ ◈ URL Shortener  ║
+║ ◈ Force Sub      ║
+║ ◈ Premium Sys    ║
+║ ◈ Auto Delete    ║
+╚═══════════════════╝
+```
 
-> *More projects dropping soon — stay tuned on* [**@BotifyX_Pro_Botz**](https://t.me/BotifyX_Pro_Botz)
+![Python](https://img.shields.io/badge/Python-DC143C?style=flat-square&logo=python&logoColor=white)
+![Pyrogram](https://img.shields.io/badge/Pyrogram-DC143C?style=flat-square&logo=telegram&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+```
+╔═══════════════════╗
+║   COMING SOON...  ║
+╠═══════════════════╣
+║                   ║
+║   ⚡ Next drop    ║
+║   loading...      ║
+║                   ║
+║   Follow channel  ║
+║   for updates     ║
+╚═══════════════════╝
+```
+
+[![Channel](https://img.shields.io/badge/Follow-DC143C?style=flat-square&logo=telegram&logoColor=white&label=@BotifyX_Pro_Botz)](https://t.me/BotifyX_Pro_Botz)
+
+</td>
+<td align="center" width="33%">
+
+```
+╔═══════════════════╗
+║   COMING SOON...  ║
+╠═══════════════════╣
+║                   ║
+║   🔥 Stay tuned  ║
+║   something big   ║
+║   is cooking...   ║
+║                   ║
+║   don't blink     ║
+╚═══════════════════╝
+```
+
+[![Watch](https://img.shields.io/badge/Watch-DC143C?style=flat-square&logo=github&logoColor=white&label=botifyx-bots)](https://github.com/botifyx-bots)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-<!-- ═══════════ STATS ═══════════ -->
+<h3 align="center">
+
+```
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█░░░░ 📊  B A T T L E   S T A T S  📊 ░░░░█
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
+
+</h3>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=DC143C&height=3&section=header"/>
-
-### 📊 `BATTLE STATS` 📊
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=botifyx-bots&show_icons=true&theme=github_dark&hide_border=true&title_color=DC143C&icon_color=DC143C&text_color=ffffff&bg_color=0d0d0d&ring_color=DC143C" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=botifyx-bots&theme=github-dark&hide_border=true&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&background=0d0d0d&stroke=DC143C&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=botifyx-bots&show_icons=true&theme=github_dark&hide_border=true&title_color=DC143C&icon_color=DC143C&text_color=ffffff&bg_color=000000&ring_color=DC143C&include_all_commits=true&count_private=true&custom_title=◈+BOTIFYX+COMBAT+LOG+◈" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=botifyx-bots&theme=github-dark&hide_border=true&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&background=000000&stroke=DC143C&sideLabels=aaaaaa&dates=666666&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=botifyx-bots&layout=compact&theme=github_dark&hide_border=true&title_color=DC143C&text_color=ffffff&bg_color=0d0d0d" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=botifyx-bots&layout=donut&theme=github_dark&hide_border=true&title_color=DC143C&text_color=ffffff&bg_color=000000&custom_title=◈+LANGUAGE+MATRIX+◈&langs_count=6" width="40%"/>
+
+</div>
+
+---
+
+<h3 align="center">
+
+```
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█░░░ 🗡  C O M M I T   W A R F A R E  🗡 ░░░█
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
+
+</h3>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=botifyx-bots&bg_color=000000&color=DC143C&line=DC143C&point=ffffff&area=true&area_color=2d000a&hide_border=true&custom_title=◈+BOTIFYX+ACTIVITY+WARZONE+◈&title_color=DC143C)](https://github.com/botifyx-bots)
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/botifyx-bots/botifyx-bots/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/botifyx-bots/botifyx-bots/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/botifyx-bots/botifyx-bots/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+<h3 align="center">
+
+```
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█░░░░ ⛩  D E V   P H I L O S O P H Y  ░░░░█
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
+
+</h3>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+```python
+# botifyx_creed.py
+
+class BotifyX:
+    """
+    ╔═══════════════════════╗
+    ║  BOTIFYX SYSTEM v2.0  ║
+    ╚═══════════════════════╝
+    """
+    traits = {
+        "🔥 passion"  : "Bots that hit different",
+        "⚡ weapon"   : "Python — always Python",
+        "🌸 fuel"     : "Anime OSTs on loop",
+        "💀 enemy"    : "Bugs at 3AM",
+        "🛡 defense"  : "try / except everything",
+        "⚔ attack"   : "Ship it. Fix it. Repeat.",
+    }
+
+    def philosophy(self):
+        return """
+        The best bot is the one
+        no one knows is running.
+        Silent. Fast. Deadly.
+        """
+
+    def when_stuck(self):
+        return "Watch one ep. Come back. Fixed."
+```
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/xT9IgG50Lg7russbDa/giphy.gif" width="90%" style="border-radius:8px"/>
+
+```
+ ┌─────────────────────────┐
+ │  "The code is the way." │
+ │                         │
+ │  — BotifyX, probably    │
+ └─────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3 align="center">
+
+```
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█░░░░ 📡  T R A N S M I S S I O N  ░░░░█
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
+
+</h3>
+
+<div align="center">
+
+<a href="https://t.me/BotifyX_Pro_Botz">
+  <img src="https://img.shields.io/badge/◈_UPDATES_CHANNEL-@BotifyX__Pro__Botz-DC143C?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/>
+</a>
 
 <br/><br/>
 
-<!-- CONTRIBUTION SNAKE -->
-<img src="https://raw.githubusercontent.com/botifyx-bots/botifyx-bots/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</div>
-
----
-
-<!-- ═══════════ ACTIVITY ═══════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=DC143C&height=3&section=header"/>
-
-### 🗡️ `CONTRIBUTION GRAPH` 🗡️
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=botifyx-bots&bg_color=0d0d0d&color=DC143C&line=DC143C&point=ffffff&area=true&area_color=DC143C&hide_border=true)](https://github.com/botifyx-bots)
-
-</div>
-
----
-
-<!-- ═══════════ CONTACT ═══════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=DC143C&height=3&section=header"/>
-
-### 📡 `FIND ME IN THE DARK` 📡
-
-<br/>
-
-[![Telegram Channel](https://img.shields.io/badge/Updates%20Channel-@BotifyX__Pro__Botz-DC143C?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BotifyX_Pro_Botz)
-
-<br/>
-
 ```
-⚡  Always building. Never stopping.
-🌸  Anime keeps the brain alive.
-💀  The bot never sleeps — neither do I.
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   ⚡  ALWAYS BUILDING.   🌸  ALWAYS WATCHING ANIME.      ║
+║   💀  BOTS DON'T SLEEP.  🔥  NEITHER DOES THE GRIND.    ║
+║                                                          ║
+║     If something helped you — drop a ⭐ — it costs      ║
+║     nothing but means everything.                        ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-<br/>
-
-> *If you find something useful — drop a* ⭐ *— it means the world.*
+<img src="https://moe-counter.glitch.me/get/@botifyx-bots?theme=rule34"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d0010,70:1a0010,100:DC143C&height=160&section=footer&text=◈+BOTIFYX+BOTS+◈&fontSize=28&fontColor=DC143C&fontAlignY=60&desc=Code.+Bot.+Repeat.+Never+Stop.&descColor=ff4466&descSize=13&descAlignY=80"/>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,50:1a0a2e,100:0d0d0d&height=140&section=footer&text=BotifyX%20Bots&fontSize=30&fontColor=DC143C&fontAlignY=65&desc=Code.%20Bot.%20Repeat.&descColor=888888&descSize=14&descAlignY=85"/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--           Made with 🖤 by BotifyX Bots                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ░▒▓ END OF TRANSMISSION ▓▒░ -->
