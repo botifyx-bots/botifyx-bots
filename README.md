@@ -195,7 +195,7 @@
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://4kwallpapers.com/images/walls/thumbs_3t/13875.jpg"/>
+<img src="https://4kwallpapers.com/images/walls/thumbs_3t/13875.jpg" width="100%" style="max-width:600px; border-radius:10px"/>
 
 </div>
 
