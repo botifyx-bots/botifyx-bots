@@ -1,204 +1,168 @@
-<!-- ░▒▓ BOTIFYX-BOTS • GITHUB PROFILE ▓▒░ -->
+<!-- BOTIFYX | GitHub Profile README -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0010,60:1a0010,100:DC143C&height=280&section=header&text=BOTIFYX&fontSize=90&fontColor=DC143C&fontAlignY=40&desc=◈%20SYSTEM%20ONLINE%20◈%20BOT%20ARCHITECT%20◈%20DARK%20CODE%20WARRIOR%20◈&descSize=13&descAlignY=62&descColor=ff4466&animation=fadeIn&stroke=DC143C&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:19000A,100:DC143C&height=220&section=header&text=BOTIFYX&fontSize=76&fontColor=FFFFFF&fontAlignY=38&desc=Building%20bots.%20Automating%20everything.&descSize=16&descColor=FF647C&animation=fadeIn" width="100%" alt="BOTIFYX banner"/>
 
-</div>
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=20&duration=2000&pause=500&color=DC143C&center=true&vCenter=true&width=700&height=50&lines=◤+INITIALIZING+BOTIFYX+PROTOCOL...+◢;▸▸+PYTHON+%7C+PYROGRAM+%7C+MONGODB+%7C+DOCKER+◂◂;⚡+TELEGRAM+BOT+ARCHITECT+%7C+DARK+SIDE+CODER+⚡;⛩+WHERE+CODE+MEETS+CHAOS+—+ANIME+NEVER+DIES+⛩;%5B+SYSTEM+%5D+ALL+BOTS+ARMED+AND+OPERATIONAL+✓" alt="Typing SVG"/>
-</div>
+<a href="https://github.com/botifyx-bots">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&height=40&lines=Python+Developer;Telegram+Bot+Developer;Automation+%26+Backend+Projects;Learning%2C+Building%2C+Improving" alt="Developer introduction"/>
+</a>
 
 <br/>
 
-<div align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-botifyx--bots-111111?style=flat-square&logo=github&logoColor=DC143C)](https://github.com/botifyx-bots)
+[![Telegram](https://img.shields.io/badge/Telegram-Updates-111111?style=flat-square&logo=telegram&logoColor=DC143C)](https://t.me/BotifyX_Pro_Botz)
+![Focus](https://img.shields.io/badge/Focus-Telegram%20Bots-111111?style=flat-square&logo=telegram&logoColor=DC143C)
 
-![](https://img.shields.io/github/followers/botifyx-bots?style=flat-square&color=DC143C&labelColor=0d0d0d&logo=github&logoColor=DC143C&label=FOLLOWERS)
-![](https://img.shields.io/github/stars/botifyx-bots?style=flat-square&color=DC143C&labelColor=0d0d0d&logo=github&logoColor=DC143C&label=TOTAL+STARS&affiliations=OWNER)
-![](https://img.shields.io/badge/FOCUS-Telegram%20Bots-DC143C?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/STATUS-Always%20Building-DC143C?style=flat-square&labelColor=0d0d0d&logo=statuspage&logoColor=DC143C)
-![](https://komarev.com/ghpvc/?username=botifyx-bots&style=flat-square&color=DC143C&label=PROFILE+VIEWS&labelColor=0d0d0d)
-
-</div>
-
-<br/>
-
----
-
-<table width="100%">
-<tr>
-<td width="52%" valign="top">
-   
----
-
-<h3 align="center">
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=DC143C&height=3&section=header"/>
-
-### ⚔️ `TECH ARSENAL` ⚔️
-</h3>
-
-<div align="center">
-
-**`// LANGUAGES`**
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=DC143C)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=DC143C)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=DC143C)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=DC143C)
-
-**`// FRAMEWORKS & LIBRARIES`**
-
-![Pyrogram](https://img.shields.io/badge/Pyrogram_v2-000000?style=for-the-badge&logo=telegram&logoColor=DC143C)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=DC143C)
-![Aiohttp](https://img.shields.io/badge/Aiohttp-000000?style=for-the-badge&logo=aiohttp&logoColor=DC143C)
-![AsyncIO](https://img.shields.io/badge/AsyncIO-000000?style=for-the-badge&logo=python&logoColor=DC143C)
-
-**`// DATABASES`**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=DC143C)
-![Motor](https://img.shields.io/badge/Motor_(Async)-000000?style=for-the-badge&logo=mongodb&logoColor=DC143C)
-
-**`// DEVOPS & TOOLS`**
-
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=DC143C)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=DC143C)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=DC143C)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=DC143C)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=DC143C)
-
-**`// PLATFORMS`**
-
-![Heroku](https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=DC143C)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=DC143C)
-![Telegram](https://img.shields.io/badge/Telegram_API-000000?style=for-the-badge&logo=telegram&logoColor=DC143C)
+*「 Code with purpose. Build with passion. 」*
 
 </div>
 
 ---
 
-<h3 align="center">
+## `01` — About Me
+
+```python
+class BotifyX:
+    name = "BOTIFYX"
+    role = "Python & Telegram Bot Developer"
+    interests = [
+        "Telegram automation",
+        "Backend development",
+        "Database-driven applications",
+        "Anime and technology",
+    ]
+    currently = "Building and improving projects"
+
+    motto = "Build. Learn. Repeat."
+```
+
+I build Telegram bots and automation tools focused on useful features, practical workflows, and maintainable code.
+
+My interests include Python development, asynchronous applications, database integration, and deploying projects for real-world use.
+
+- Developing Telegram bots and utility tools.
+- Exploring backend systems and automation.
+- Improving reliability, performance, and user experience.
+- Learning by building and refining projects.
+
+---
+
+## `02` — Tech Stack
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=DC143C&height=3&section=header"/>
+**LANGUAGES**
 
-### 🔥 `FEATURED PROJECTS` 🔥
+<img src="https://skillicons.dev/icons?i=python,javascript,bash,html&theme=dark" alt="Python, JavaScript, Bash and HTML"/>
 
-<br/>
+**FRAMEWORKS & LIBRARIES**
 
-</h3>
+<img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask"/>
 
-<div align="center">
+![Pyrogram](https://img.shields.io/badge/Pyrogram-181818?style=for-the-badge&logo=telegram&logoColor=DC143C)
+![AsyncIO](https://img.shields.io/badge/AsyncIO-181818?style=for-the-badge&logo=python&logoColor=DC143C)
+![Aiohttp](https://img.shields.io/badge/Aiohttp-181818?style=for-the-badge&logo=python&logoColor=DC143C)
 
-[![File Store Pro](https://github-readme-stats.heroku.app/api/pin?username=botifyx-bots&repo=File-store-Pro&theme=github_dark&hide_border=false&border_color=DC143C&title_color=DC143C&icon_color=DC143C&text_color=ffffff&bg_color=000000)](https://github.com/botifyx-bots/File-store-Pro)
+**DATABASES & INFRASTRUCTURE**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,docker,git,github,linux,vscode&theme=dark" alt="MongoDB, Docker, Git, GitHub, Linux and VS Code"/>
 
-<table>
-<tr>
-<td align="center" width="33%">
+![Motor](https://img.shields.io/badge/Motor_Async_Driver-181818?style=for-the-badge&logo=mongodb&logoColor=DC143C)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-181818?style=for-the-badge&logo=githubactions&logoColor=DC143C)
 
-```
-╔═══════════════════╗
-║  FILE STORE PRO   ║
-╠═══════════════════╣
-║ ◈ Multi DB Chan  ║
-║ ◈ Token Verify   ║
-║ ◈ URL Shortener  ║
-║ ◈ Force Sub      ║
-║ ◈ Premium Sys    ║
-║ ◈ Auto Delete    ║
-╚═══════════════════╝
-```
+**DEPLOYMENT PLATFORMS**
 
-![Python](https://img.shields.io/badge/Python-DC143C?style=flat-square&logo=python&logoColor=white)
-![Pyrogram](https://img.shields.io/badge/Pyrogram-DC143C?style=flat-square&logo=telegram&logoColor=white)
-
-</td>
-<td align="center" width="33%">
-
-```
-╔═══════════════════╗
-║   COMING SOON...  ║
-╠═══════════════════╣
-║                   ║
-║   ⚡ Next drop    ║
-║   loading...      ║
-║                   ║
-║   Follow channel  ║
-║   for updates     ║
-╚═══════════════════╝
-```
-
-[![Channel](https://img.shields.io/badge/Follow-DC143C?style=flat-square&logo=telegram&logoColor=white&label=@BotifyX_Pro_Botz)](https://t.me/BotifyX_Pro_Botz)
-
-</td>
-<td align="center" width="33%">
-
-```
-╔═══════════════════╗
-║   COMING SOON...  ║
-╠═══════════════════╣
-║                   ║
-║   🔥 Stay tuned   ║
-║   something big   ║
-║   is cooking...   ║
-║                   ║
-║   don't blink     ║
-╚═══════════════════╝
-```
-
-[![Watch](https://img.shields.io/badge/Watch-DC143C?style=flat-square&logo=github&logoColor=white&label=botifyx-bots)](https://github.com/botifyx-bots)
-
-</td>
-</tr>
-</table>
+![Render](https://img.shields.io/badge/Render-181818?style=for-the-badge&logo=render&logoColor=DC143C)
+![Heroku](https://img.shields.io/badge/Heroku-181818?style=for-the-badge&logo=heroku&logoColor=DC143C)
 
 </div>
 
 ---
 
-<h3 align="center">
-<!-- ═══════════ SKILLS ═══════════ -->
+## `03` — Featured Project
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=DC143C&height=3&section=header"/>
+<a href="https://github.com/botifyx-bots/File-store-Pro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=botifyx-bots&repo=File-store-Pro&theme=transparent&hide_border=true&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9" width="100%" alt="File Store Pro repository card"/>
+</a>
 
-### 📡  T R A N S M I S S I O N
+### File Store Pro
+
+**A Telegram file-sharing bot project.**
+
+A project built around file delivery and channel-based workflows, with features including:
+
+| Feature | Description |
+|:--|:--|
+| Multi-database channels | Organize file sources across channels |
+| Token verification | Add a verification step to access workflows |
+| URL shortener support | Integrate supported short-link services |
+| Force subscription | Require users to join configured channels |
+| Premium system | Support premium-oriented functionality |
+| Auto-delete | Automatically remove messages when configured |
+
+**Explore the source code:**
+
+[Repository](https://github.com/botifyx-bots/File-store-Pro) · [Issues](https://github.com/botifyx-bots/File-store-Pro/issues)
+
+</div>
+
+---
+
+## `04` — GitHub Overview
+
+<div align="center">
+
+<a href="https://github.com/botifyx-bots">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=botifyx-bots&show_icons=true&theme=transparent&hide_border=true&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/botifyx-bots">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=botifyx-bots&layout=compact&theme=transparent&hide_border=true&title_color=DC143C&text_color=C9D1D9" alt="Most used programming languages"/>
+</a>
 
 <br/>
 
-</h3>
+<img src="https://streak-stats.demolab.com?user=botifyx-bots&theme=transparent&hide_border=true&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=C9D1D9&dates=888888" alt="GitHub contribution streak" width="100%"/>
+
+</div>
+
+---
+
+## `05` — Beyond the Code
+
+```text
+> Interests:   Anime | Manga | Technology
+> Focus:       Automation | Backend Systems
+> Philosophy:  Build useful things. Keep improving.
+```
+
+I enjoy exploring new ideas, experimenting with technologies, and turning practical problems into working projects.
+
+Every project is another opportunity to learn something new.
+
+---
+
+## `06` — Connect
 
 <div align="center">
 
 <a href="https://t.me/BotifyX_Pro_Botz">
-  <img src="https://img.shields.io/badge/◈_UPDATES_CHANNEL-@BotifyX__Pro__Botz-DC143C?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Telegram-Updates_Channel-DC143C?style=for-the-badge&logo=telegram&logoColor=white&labelColor=111111" alt="Telegram updates channel"/>
+</a>
+<a href="https://github.com/botifyx-bots">
+  <img src="https://img.shields.io/badge/GitHub-Explore_Projects-DC143C?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub projects"/>
 </a>
 
 <br/><br/>
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   ⚡  ALWAYS BUILDING.   🌸  ALWAYS WATCHING ANIME.     ║
-║   💀  BOTS DON'T SLEEP.  🔥  NEITHER DOES THE GRIND.    ║
-║                                                          ║
-║     If something helped you — drop a ⭐ — it costs      ║
-║     nothing but means everything.                        ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+*If you find something useful, consider leaving a star.*
 
-<img src="https://i.pinimg.com/736x/a3/e2/25/a3e2252dc36d8077925b6053baf35733.jpg" width="100%" style="max-width:600px; border-radius:10px"/>
+**Thanks for visiting. Keep building.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,50:19000A,100:050505&height=120&section=footer" width="100%" alt="Crimson footer"/>
+
+<sub>BOTIFYX · Code. Automate. Evolve.</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d0010,70:1a0010,100:DC143C&height=160&section=footer&text=◈+BOTIFYX+BOTS+◈&fontSize=28&fontColor=DC143C&fontAlignY=60&desc=Code.+Bot.+Repeat.+Never+Stop.&descColor=ff4466&descSize=13&descAlignY=80"/>
-
-<!-- ░▒▓ END OF TRANSMISSION ▓▒░ -->
