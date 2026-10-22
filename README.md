@@ -24,7 +24,7 @@
 
 ```python
 class BotifyX:
-    name = "BOTIFYX"
+    name = "Qυαɳxι ヅ ⁶⁶⁶"
     role = "Python & Telegram Bot Developer"
     interests = [
         "Telegram automation",
