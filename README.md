@@ -80,57 +80,7 @@ My interests include Python development, asynchronous applications, database int
 
 ---
 
-## `03` — Featured Project
-
-<div align="center">
-
-<a href="https://github.com/botifyx-bots/File-store-Pro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=botifyx-bots&repo=File-store-Pro&theme=transparent&hide_border=true&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9" width="100%" alt="File Store Pro repository card"/>
-</a>
-
-### File Store Pro
-
-**A Telegram file-sharing bot project.**
-
-A project built around file delivery and channel-based workflows, with features including:
-
-| Feature | Description |
-|:--|:--|
-| Multi-database channels | Organize file sources across channels |
-| Token verification | Add a verification step to access workflows |
-| URL shortener support | Integrate supported short-link services |
-| Force subscription | Require users to join configured channels |
-| Premium system | Support premium-oriented functionality |
-| Auto-delete | Automatically remove messages when configured |
-
-**Explore the source code:**
-
-[Repository](https://github.com/botifyx-bots/File-store-Pro) · [Issues](https://github.com/botifyx-bots/File-store-Pro/issues)
-
-</div>
-
----
-
-## `04` — GitHub Overview
-
-<div align="center">
-
-<a href="https://github.com/botifyx-bots">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=botifyx-bots&show_icons=true&theme=transparent&hide_border=true&title_color=DC143C&icon_color=DC143C&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/botifyx-bots">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=botifyx-bots&layout=compact&theme=transparent&hide_border=true&title_color=DC143C&text_color=C9D1D9" alt="Most used programming languages"/>
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=botifyx-bots&theme=transparent&hide_border=true&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=C9D1D9&dates=888888" alt="GitHub contribution streak" width="100%"/>
-
-</div>
-
----
-
-## `05` — Beyond the Code
+## `03` — Beyond the Code
 
 ```text
 > Interests:   Anime | Manga | Technology
@@ -144,7 +94,7 @@ Every project is another opportunity to learn something new.
 
 ---
 
-## `06` — Connect
+## `04` — Connect
 
 <div align="center">
 
